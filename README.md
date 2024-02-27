@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+
+forge script script/zeekcoffee.s.sol:Deploy --broadcast --rpc-url https://sepolia.explorer.zksync.io/ --private-key [your private key]
